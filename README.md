@@ -6,3 +6,4 @@
  This line will cause merge conflicts.
  made change as owner
  part of new branch
+ new feature.
